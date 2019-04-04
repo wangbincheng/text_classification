@@ -38,9 +38,7 @@ TF-IDF 是一个统计方法，用来评估某个词语对于一个文件集或�
 ```
 
 tfidf_model2 = TfidfVectorizer(token_pattern=r"(?u)\b\w+\b").fit(document)
-
 print(tfidf_model2.vocabulary_)
-
 #{'我': 8, '是': 12, '一条': 1, '天狗': 7, '呀': 6, '把': 9, '月': 13, '来': 14, '吞': 5, '了': 2, '日来': 10, '一切': 0, '的': 15, '星球': 11, '全宇宙': 4, '便是': 3}
 
 ```
