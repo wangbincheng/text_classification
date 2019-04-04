@@ -31,3 +31,6 @@ TF-IDF 是一个统计方法，用来评估某个词语对于一个文件集或�
 
 ## 朴素贝叶斯分类器工作流程
 ![](朴素贝叶斯分类器工作流程.jpg)
+
+
+## [sklearn: TfidfVectorizer 中文处理及一些使用参数](https://blog.csdn.net/blmoistawinde/article/details/80816179)
