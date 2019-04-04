@@ -44,4 +44,4 @@ print(tfidf_model2.vocabulary_)
 
 ## 对文档进行分类
 
-! [](文档分类流程.jpg)
+![文档分类流程](文档分类流程.jpg)
